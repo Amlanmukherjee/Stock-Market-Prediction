@@ -1,0 +1,7 @@
+gunicorn
+numpy
+fbprophet==0.6
+Flask==1.1.2
+pandas-datareader==0.8.1
+uwsgi
+
