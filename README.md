@@ -36,3 +36,10 @@ Facebook Prophet is an open-source forecasting method implemented in Python and 
 6 directories, 18 files
 
 ```
+
+<h3>Requirements for this project: </h3>
+- flask
+- nginx
+- gunicorn
+- docker
+- fbprophet
